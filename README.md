@@ -1,45 +1,44 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5d9f&height=200&section=header&text=¡Hola,%20soy%20Vicente!&fontSize=40&fontColor=ffffff" />
-</p>
+<!-- Banner con degradado (elige el que más te guste) -->
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=¡Bienvenido%20a%20mi%20perfil!&fontColor=ffffff&fontSize=30&fontAlign=50&height=100&desc=Soy%20Vicente%2C%20estudiante%20de%20DAW&descAlign=50&descAlignY=70)
 
-### 👋 Sobre mí
+<!-- Variante con degradado morado → rosa -->
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=ff00ff,ff7f7f&text=¡Bienvenido%20a%20mi%20perfil!&fontColor=ffffff&fontSize=30&fontAlign=50&height=100&desc=Soy%20Vicente%2C%20estudiante%20de%20DAW&descAlign=50&descAlignY=70)
 
-🎓 Soy estudiante de **Desarrollo de Aplicaciones Web (Grado Superior)**  
-🌱 Actualmente aprendiendo: **HTML, CSS, Java, MySQL, Shell**  
-💡 Apasionado del desarrollo **frontend** y la creación de interfaces intuitivas y modernas  
-🚀 En constante aprendizaje y con muchas ganas de crecer como desarrollador
+<!-- Variante con degradado azul → verde -->
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=00c6ff,0072ff&text=¡Bienvenido%20a%20mi%20perfil!&fontColor=ffffff&fontSize=30&fontAlign=50&height=100&desc=Soy%20Vicente%2C%20estudiante%20de%20DAW&descAlign=50&descAlignY=70)
 
 ---
 
-### 🛠️ Tecnologías que uso
+# Hola, soy Vicente 👋
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+🎓 Estudiante de Desarrollo de Aplicaciones Web (Grado Superior)  
+💻 Actualmente aprendiendo **JavaScript, CSS y PHP**  
+✨ Interesado especialmente en el desarrollo **Frontend**  
+📂 En este perfil encontrarás proyectos, ejercicios y prácticas del ciclo formativo.  
 
 ---
 
-### 📈 Mis estadísticas en GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vicenttto&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenttto&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 📫 Contacto
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicente.ah3@gmail.com)
-
-🔗 LinkedIn y portafolio personal: *En proceso...*
+## 🚀 Tecnologías que estoy aprendiendo
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- MySQL  
+- Shell  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0e5d9f"/>
-</p>
+## 📊 Mis estadísticas en GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vicenttto&show_icons=true&theme=radical)  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vicenttto&layout=compact&theme=radical)
+
+---
+
+## 📌 En proceso
+- Portfolio personal  
+- Conexión con LinkedIn  
+
+---
+
+✉️ Contacto: **vicente.ah3@gmail.com**
