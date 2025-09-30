@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0a0f3d,1f1f2e&text=Welcome%20💻&fontColor=ffffff&fontSize=30&fontAlign=50&height=100)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20💻&fontColor=ffffff&fontSize=30&fontAlign=50&height=100)
 
 ---
 
@@ -29,8 +29,7 @@
 ---
 
 ## 📌 En proceso
-- Portfolio personal  
-- Conexión con LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vicente-aparicio-b477332b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vicente-aparicio-b477332b7)
 
 ---
 
