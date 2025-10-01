@@ -4,10 +4,10 @@
 
 # Hola, soy Vicente 👋
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (Grado Superior)  
+🎓 Estudiante de Desarrollo de Aplicaciones Web  
 💻 Actualmente aprendiendo **JavaScript, CSS y PHP**  
 ✨ Interesado especialmente en el desarrollo **Frontend**  
-📂 En este perfil encontrarás proyectos, ejercicios y prácticas del ciclo formativo.  
+📂 En este perfil encontrarás proyectos, ejercicios y prácticas de mis estudios.  
 
 ---
 
