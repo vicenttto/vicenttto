@@ -1,6 +1,3 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20💻&fontColor=ffffff&fontSize=30&fontAlign=50&height=100)
-
----
 
 # Hola, soy Vicente 👋
 
@@ -10,6 +7,10 @@
 📂 En este perfil encontrarás proyectos, ejercicios y prácticas de mis estudios.  
 
 ---
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20💻&fontColor=ffffff&fontSize=30&fontAlign=50&height=100)
+
+---
+
 
 ## 🚀 Tecnologías que estoy aprendiendo
 <p>
