@@ -10,24 +10,9 @@
 
 ## 🛠️ Habilidades y Tecnologías
 
-<p align="center">
-
-**JavaScript ⚡**<br>
-★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ (70%)<br><br>
-
-**PHP 🐘**<br>
-★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ (60%)<br><br>
-
-**Java ☕**<br>
-★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ (70%)<br><br>
-
-**HTML / CSS / XML 💻**<br>
-★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ (80%)<br><br>
-
-**SQL / MySQL 🗄️**<br>
-★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ (65%)<br>
-
-</p>
+| JavaScript ⚡ | PHP 🐘 | Java ☕ | HTML/CSS/XML 💻 | SQL/MySQL 🗄️ |
+|:------------:|:------:|:------:|:---------------:|:-------------:|
+| ![★](https://img.shields.io/badge/★-brightgreen) ![★](https://img.shields.io/badge/★-brightgreen) ![★](https://img.shields.io/badge/★-brightgreen) ![★](https://img.shields.io/badge/★-brightgreen) ![★](https://img.shields.io/badge/★-brightgreen) ![★](https://img.shields.io/badge/★-brightgreen) ![★](https://img.shields.io/badge/★-brightgreen) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) | ![★](https://img.shields.io/badge/★-blue) ![★](https://img.shields.io/badge/★-blue) ![★](https://img.shields.io/badge/★-blue) ![★](https://img.shields.io/badge/★-blue) ![★](https://img.shields.io/badge/★-blue) ![★](https://img.shields.io/badge/★-blue) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) | ![★](https://img.shields.io/badge/★-orange) ![★](https://img.shields.io/badge/★-orange) ![★](https://img.shields.io/badge/★-orange) ![★](https://img.shields.io/badge/★-orange) ![★](https://img.shields.io/badge/★-orange) ![★](https://img.shields.io/badge/★-orange) ![★](https://img.shields.io/badge/★-orange) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) | ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![★](https://img.shields.io/badge/★-red) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) | ![★](https://img.shields.io/badge/★-purple) ![★](https://img.shields.io/badge/★-purple) ![★](https://img.shields.io/badge/★-purple) ![★](https://img.shields.io/badge/★-purple) ![★](https://img.shields.io/badge/★-purple) ![★](https://img.shields.io/badge/★-purple) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) ![☆](https://img.shields.io/badge/☆-lightgrey) |
 
 ---
 
@@ -36,27 +21,27 @@
 <p align="center">
 
 **JavaScript ⚡**<br>
-[![Repo](https://img.shields.io/badge/Repositorio-JS-yellow?style=for-the-badge)](https://github.com/vicenttto)<br>
+[![Repo](https://img.shields.io/badge/Repositorio-JS-yellow?style=for-the-badge)](https://github.com/vicenttto/javascript)<br>
 Ejercicios de páginas web interactivas usando DOM y eventos<br><br>
 
 **PHP 🐘**<br>
-[![Repo](https://img.shields.io/badge/Repositorio-PHP-blue?style=for-the-badge)](https://github.com/vicenttto)<br>
+[![Repo](https://img.shields.io/badge/Repositorio-PHP-blue?style=for-the-badge)](https://github.com/vicenttto/php)<br>
 Backend con formularios y contenido dinámico<br><br>
 
 **Proyectos 🚀**<br>
-[![Repo](https://img.shields.io/badge/Repositorio-Proyectos-orange?style=for-the-badge)](https://github.com/vicenttto)<br>
+[![Repo](https://img.shields.io/badge/Repositorio-Proyectos-orange?style=for-the-badge)](https://github.com/vicenttto/proyectos)<br>
 Ejercicios y proyectos completos en Java, SQL y otras tecnologías<br><br>
 
 **Java ☕**<br>
-[![Repo](https://img.shields.io/badge/Repositorio-Java-orange?style=for-the-badge)](https://github.com/vicenttto)<br>
+[![Repo](https://img.shields.io/badge/Repositorio-Java-orange?style=for-the-badge)](https://github.com/vicenttto/java)<br>
 POO, herencia, interfaces, colecciones y Swing<br><br>
 
 **Lenguaje de Marcas 💻**<br>
-[![Repo](https://img.shields.io/badge/Repositorio-HTML/CSS/XML-red?style=for-the-badge)](https://github.com/vicenttto)<br>
+[![Repo](https://img.shields.io/badge/Repositorio-HTML/CSS/XML-red?style=for-the-badge)](https://github.com/vicenttto/markup)<br>
 HTML, CSS, XML, XSD y transformaciones XSL<br><br>
 
 **SQL 🗄️**<br>
-[![Repo](https://img.shields.io/badge/Repositorio-SQL-purple?style=for-the-badge)](https://github.com/vicenttto)<br>
+[![Repo](https://img.shields.io/badge/Repositorio-SQL-purple?style=for-the-badge)](https://github.com/vicenttto/sql)<br>
 Bases de datos, consultas avanzadas y control de errores<br>
 
 </p>
@@ -86,5 +71,5 @@ Bases de datos, consultas avanzadas y control de errores<br>
 ## 📬 Contacto
 
 <p align="center">
-✉️ [Correo electrónico](mailto:tu-email@example.com)  |  🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+✉️ [Correo electrónico](mailto:vicente.ah3@gmail.com)  |  🔗 [LinkedIn](www.linkedin.com/in/vicente-aparicio-b477332b7)
 </p>
