@@ -71,5 +71,6 @@ Bases de datos, consultas avanzadas y control de errores<br>
 ## 📬 Contacto
 
 <p align="center">
-✉️ [Correo electrónico](mailto:vicente.ah3@gmail.com)  |  🔗 [LinkedIn](www.linkedin.com/in/vicente-aparicio-b477332b7)
+✉️ <a href="mailto:vicente.ah3@gmail.com">Correo electrónico</a> &nbsp; | &nbsp; 🔗 <a href="https://www.linkedin.com/in/vicente-aparicio-b477332b7">LinkedIn</a>
 </p>
+
