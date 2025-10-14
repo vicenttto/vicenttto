@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vicenttto&color=brightgreen" alt="Profile views" />
-</p>
-
-# <p align="center">👋 ¡Hola! Soy Vicente Aparicio </p>
+# 👋 ¡Hola! Soy Vicente Aparicio (vicenttto)
 
 <p align="center">
 🎓 Estudiante de 2º curso de Desarrollo de Aplicaciones Web (DAW)<br>
@@ -12,30 +8,30 @@
 
 ---
 
-## <p align="center">🛠️ Habilidades y Tecnologías</p>
+## 🛠️ Habilidades y Tecnologías
 
 <p align="center">
 
 **JavaScript ⚡**<br>
-![JavaScript](https://img.shields.io/badge/Progreso-★★★★★★★☆☆☆-brightgreen?style=for-the-badge)<br>
+★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ (70%)<br><br>
 
 **PHP 🐘**<br>
-![PHP](https://img.shields.io/badge/Progreso-★★★★★★☆☆☆☆-blue?style=for-the-badge)<br>
+★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ (60%)<br><br>
 
 **Java ☕**<br>
-![Java](https://img.shields.io/badge/Progreso-★★★★★★★☆☆☆-orange?style=for-the-badge)<br>
+★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ (70%)<br><br>
 
 **HTML / CSS / XML 💻**<br>
-![HTML/CSS/XML](https://img.shields.io/badge/Progreso-★★★★★★★★☆☆-red?style=for-the-badge)<br>
+★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ (80%)<br><br>
 
 **SQL / MySQL 🗄️**<br>
-![SQL](https://img.shields.io/badge/Progreso-★★★★★★☆☆☆☆-purple?style=for-the-badge)<br>
+★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ (65%)<br>
 
 </p>
 
 ---
 
-## <p align="center">📂 Proyectos Destacados</p>
+## 📂 Proyectos Destacados
 
 <p align="center">
 
@@ -67,19 +63,28 @@ Bases de datos, consultas avanzadas y control de errores<br>
 
 ---
 
-## <p align="center">📊 Estadísticas en GitHub</p>
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vicenttto&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=vicenttto&show_icons=true&theme=radical&hide_title=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=vicenttto&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenttto&layout=compact&theme=radical&hide_title=true" alt="Top languages" />
 </p>
 
 ---
 
-## <p align="center">🚀 Objetivo</p>
+## 🚀 Objetivo
 
 <p align="center">
-💡 Mostrar mi progreso y habilidades como desarrollador, centralizando mis proyectos, eje
+💡 Mostrar mi progreso y habilidades como desarrollador, centralizando mis proyectos, ejercicios y prácticas en un perfil profesional y visual.
+</p>
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+✉️ [Correo electrónico](mailto:tu-email@example.com)  |  🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+</p>
