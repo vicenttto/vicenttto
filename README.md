@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Vicente Aparicio 
 
-<p align="center">
+<p>
 🎓 Estudiante de 2º curso de Desarrollo de Aplicaciones Web (DAW)<br>
 💻 Apasionado por la programación y desarrollo web<br>
 🚀 Este perfil centraliza mis ejercicios, prácticas y proyectos
