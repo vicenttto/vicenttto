@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Vicente Aparicio (vicenttto)
+# 👋 ¡Hola! Soy Vicente Aparicio 
 
 <p align="center">
 🎓 Estudiante de 2º curso de Desarrollo de Aplicaciones Web (DAW)<br>
