@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Vicente Aparicio
 
-Desarrollador Full Stack Junior (Grado Superior en Desarrollo de Aplicaciones Web) buscando mi primera oportunidad profesional o prácticas en desarrollo web.
-
-![Disponible](https://img.shields.io/badge/Disponible-Pr%C3%A1cticas%20%2F%20Empleo-brightgreen?style=for-the-badge)
+Desarrollador Full Stack (Grado Superior en Desarrollo de Aplicaciones Web). Aquí centralizo mis proyectos personales y prácticas de desarrollo web.
 
 ---
 
